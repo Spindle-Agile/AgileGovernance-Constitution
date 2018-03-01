@@ -5,7 +5,7 @@
 The AgileGovernance Constitution documents the core rules, structure, and processes of the AgileGovernance “operating system” for governing and managing an organization. It provides the foundation for an organization wishing to use AgileGovernance, by anchoring the shift of power required in concrete and documented “rules of the game”, which everyone involved can rely upon.
 
 ### How is the AgileGovernance Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the AgileGovernance system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/master/Adoption%20Declaration%20Sample.pdf" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
+The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the AgileGovernance system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/default/Adoption%20Declaration%20Sample.pdf" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
 
 ### What the AgileGovernance Constitution isn’t
 The AgileGovernance Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (Spindle separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
@@ -26,19 +26,19 @@ This constitution is a derived work of the Holacracy Constitution : https://gith
 
 # Table of Contents
 
-#### [Article 1: Organizational Structure](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/master/AgileGovernance-Constitution.md#article-1-organizational-structure)
+#### [Article 1: Organizational Structure](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/default/AgileGovernance-Constitution.md#article-1-organizational-structure)
 
 A role is AgileGovernance's core building block for organizational structure, and a circle contains and integrates many roles. This article covers how roles and circles are structured and connected.
 
-#### [Article 2: Operations](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/master/AgileGovernance-Constitution.md#article-2-operations)
+#### [Article 2: Operations](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/default/AgileGovernance-Constitution.md#article-2-operations)
 
 Filling a role conveys certain authorities and responsibilities, as well as duties to fellow team members. This article covers those authorities and expectations, as well as the tactical meeting process used to coordinate operational work.
 
-#### [Article 3: Governance](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/master/AgileGovernance-Constitution.md#article-3-governance)
+#### [Article 3: Governance](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/default/AgileGovernance-Constitution.md#article-3-governance)
 
 A circle's governance process is used to define its roles and policies. This article defines the governance process and the ground rules for proposing changes or objecting to proposals.
 
-#### [Article 4: Adoption Matters](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/master/AgileGovernance-Constitution.md#article-4-adoption-matters)
+#### [Article 4: Adoption Matters](https://github.com/Spindle-Agile/AgileGovernance-Constitution/blob/default/AgileGovernance-Constitution.md#article-4-adoption-matters)
 
 This article deals with the transition from pre-AgileGovernance to operating under the Constitution, and provides rules when adopting AgileGovernance within a board structure with a group of representatives in lieu of a single Lead Link.
 
