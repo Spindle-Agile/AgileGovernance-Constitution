@@ -1,15 +1,15 @@
-# **Holacracy Constitution - Development Version**
+# **AgileGovernance Constitution**
 
 
 ## Preamble
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Organization's Members”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
 ## Article 1: Energizing Roles
 
 ### 1.1 Definition of a Role
 
-The Organization’s Partners will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+The Organization’s Members will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
 
 - **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
@@ -17,7 +17,7 @@ The Organization’s Partners will typically perform work for the Organization b
 
 ### 1.2 Responsibilities of Role-Filling
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+As a Organization's Member, you have the following responsibilities for each Role that you are assigned to and agree to fill:
 
 #### 1.2.1 Processing Tensions
 
@@ -44,15 +44,15 @@ Whenever you have time available to act in your Role, you are responsible for co
 
 ### 1.3 Authority to Act
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+As a Organization's Member assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
 
 However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.2.
 
 ### 1.4 Authority over Domains
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+As a Organization's Member assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Organization's Members who may be impacted.
 
 The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.2.
 
@@ -111,22 +111,22 @@ The Core Circle Members are determined using the following rules:
 
 Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
 
-- **(a)** each Partner filling a Defined Role in the Circle;
+- **(a)** each Organization's Member filling a Defined Role in the Circle;
 - **(b)** the Lead Link of the Circle, as defined in Section 2.2;
 - **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
 - **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
 
 #### 2.3.2 Exclusion for Multi-Filled Roles
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+If multiple Organization's Members are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Organization's Members filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
 
-The Policy can define a pathway for the excluded Partners to process Tensions related to that Role. If it does not, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would if the Role were a Sub-Circle.
+The Policy can define a pathway for the excluded Organization's Members to process Tensions related to that Role. If it does not, any Organization's Members representing the Role have the duty to consider and process Tensions conveyed by the excluded Organization's Members, exactly as a Rep Link would if the Role were a Sub-Circle.
 
 #### 2.3.3 Exclusion for Minor Allocations
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Sometimes, a Organization's Member allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Organization's Member from serving as a Core Circle Member as a result of that Role assignment.
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+If a Organization's Member is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Organization's Member, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Organization's Member to process Tensions related to that Role.
 
 #### 2.3.4 Special Appointments of Core Members
 
@@ -401,7 +401,7 @@ Governance Meetings are primarily intended to support a Circle’s Governance Pr
 
 ### 3.4 Interpreting the Constitution & Governance
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+As a Organization's Member of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
 
 #### 3.4.1 Secretary Interpretation Trumps
 
@@ -488,7 +488,7 @@ As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone el
 
 #### 4.1.5 Implicit Expectations Hold No Weight
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+All of your responsibilities and constraints as a Organization's Member of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
 ### 4.2 Tactical Meetings
 
@@ -526,7 +526,7 @@ If a Defined Role of the Circle is entirely or partially unrepresented at a Tact
 
 ### 4.3 Individual Action
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+As a Organization's Member of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
 
 #### 4.3.1 Allowed Situations
 
@@ -539,7 +539,7 @@ You may only take Individual Action when all of the following are true:
 
 #### 4.3.2 Communication & Restoration
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Organization's Member who fills a Role that may be significantly impacted. Upon the request of any of those Organization's Members, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
 
 If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
 
@@ -555,7 +555,7 @@ After taking Individual Action, you have a duty to prioritize doing the corollar
 
 ### 5.1 Ratifiers Cede Authority
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Organization's Members, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
 
 ### 5.2 Anchor Circle
 
@@ -575,7 +575,7 @@ Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to
 
 #### 5.2.3 Organization’s Purpose
 
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
+The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Organization's Members, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
 
 The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
 
@@ -603,10 +603,12 @@ However, these legacy policies and systems will lose all weight and authority as
 
 ### 5.5 Constitution Amendments and Repeal
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Organization's Members of the Organization can access them.
 
 ---
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+Source : https://github.com/Spindle-Agile/AgileGovernance-Constitution
+Derived work from : https://github.com/holacracyone/Holacracy-Constitution
 ---
