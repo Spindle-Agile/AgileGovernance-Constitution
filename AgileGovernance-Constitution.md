@@ -154,7 +154,7 @@ When you fill a Role, you may resign from the Role at any time, unless you’ve 
 
 ### 2.5 Elected Roles
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+Each Circle includes a **_“Facilitator Role”_**, a **_“Board Master Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Board Master”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
 
 #### 2.5.1 Elections & Eligibility
 
@@ -164,7 +164,7 @@ All Core Circle Members are eligible for election and each may hold multiple Ele
 
 #### 2.5.2 Election Terms & Revisiting
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article 3.
+During the election process, the Facilitator will specify a term for each election. After a term expires, the Board Master is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article 3.
 
 #### 2.5.3 Amending Elected Roles
 
@@ -182,7 +182,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 - **(a)** someone explicitly specified by the person to be replaced; or
 - **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
+- **(c)** the acting Board Master of the Circle; or
 - **(d)** the Lead Link of the Circle; or
 - **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
 
@@ -282,7 +282,7 @@ Proposals are considered adopted and amend the Governance of the Circle only if 
 
 Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Board Master. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Board Master.
 
 A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
 
@@ -319,7 +319,7 @@ The Facilitator may test the validity of a claimed Objection by asking the Objec
 
 When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Board Master to interpret if the Proposal does indeed violate the Constitution. If the Board Master rules that it does not, the Facilitator must then dismiss the Objection.
 
 #### 3.2.6 Rules of Integration
 
@@ -332,15 +332,15 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 ### 3.3 Governance Meetings
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+The Board Master of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+In addition to any regular, recurring Governance Meetings the Board Master schedules, the Board Master is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
 
 The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
 
 #### 3.3.1 Attendance
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Board Master are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
 
 In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
 
@@ -348,7 +348,7 @@ Beyond those listed in this paragraph, no one else is allowed to participate in 
 
 #### 3.3.2 Notice & Quorum
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+A Circle may only conduct its Governance Process in a meeting if the Board Master has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
 
 Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
 
@@ -378,10 +378,10 @@ The Facilitator must build an agenda of Tensions to process within a Governance 
 The Facilitator must enact the Integrative Decision-Making Process as follows:
 
 - **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
+- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Board Master to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Board Master must do so.
 - **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
+- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Board Master, and any engagement by the Board Master must focus solely on capturing the amended Proposal.
+- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Board Master records the Proposal as adopted Governance for the Circle.
 - **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
 
 #### 3.3.6 Integrative Election Process
@@ -397,29 +397,29 @@ The Facilitator must enact the Integrative Election Process as follows:
 
 #### 3.3.7 Operational Decisions in Governance Meetings
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Board Master may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
 
 ### 3.4 Interpreting the Constitution & Governance
 
-As a Organization's Member of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+As a Organization's Member of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Board Master of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
 
-#### 3.4.1 Secretary Interpretation Trumps
+#### 3.4.1 Board Master Interpretation Trumps
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+If your interpretation conflicts with an interpretation ruling made by a Board Master, the Board Master’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
 
 #### 3.4.2 Super-Circle Interpretation Trumps
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+A Circle’s Board Master may overrule an interpretation given by a Board Master of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Board Master of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Board Master.
 
 #### 3.4.3 Interpretations Become Standards
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+After ruling on an interpretation, a Board Master may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Board Master of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+A Board Master may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
 
 #### 3.4.4 Striking Invalid Governance
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
+Any Circle Member of a Circle may ask its Board Master to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Board Master concludes the Governance conflicts with the rules of this Constitution, the Board Master must then strike the offending Governance from the acting Governance record. After doing so, the Board Master must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
 
 ### 3.5 Process Breakdown
 
@@ -431,14 +431,14 @@ The Facilitator of a Circle may declare a Process Breakdown in the Circle if the
 
 #### 3.5.2 Breakdown from Unconstitutional Behavior
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Board Master or Rep Link may also make this declaration.
 
 #### 3.5.3 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
 - **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
+- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Board Master of the Circle, or to appoint someone else to do so; and
 - **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
@@ -492,7 +492,7 @@ All of your responsibilities and constraints as a Organization's Member of the O
 
 ### 4.2 Tactical Meetings
 
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
+The Board Master of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
 
 #### 4.2.1 Focus & Intent
 
@@ -515,7 +515,7 @@ The Facilitator must normally use the following process for Tactical Meetings:
 - **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
 - **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
 - **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Board Master is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 - **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
 A Circle may adopt a Policy to add to or change this required process.

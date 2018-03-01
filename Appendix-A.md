@@ -46,7 +46,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
 
 
-### Secretary
+### Board Master
 
 **Purpose:** Steward the Circle’s governance records and stabilize its record-keeping process.
 
