@@ -42,9 +42,6 @@ A circle's governance process is used to define its roles and policies. This art
 
 This article deals with the transition from pre-AgileGovernance to operating under the Constitution, and provides rules when adopting AgileGovernance within a board structure with a group of representatives in lieu of a single Lead Link.
 
----
-
-#### For More Information or Support with the AgileGovernance System: <a href="http://AgileGovernance.org" target="_blank">AgileGovernance.org</a>
 
 ---
 
